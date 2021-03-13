@@ -39,3 +39,13 @@ src/main/resources/static/jsx/build/
 .springBeans
 .sts4-cache
 
+.metadata/
+.sonarlint/
+RemoteSystemsTempFiles/
+
+**.dbeaver/
+*.log
+**/node_modules/
+**/build/
+**/.mvn/
+bin/
